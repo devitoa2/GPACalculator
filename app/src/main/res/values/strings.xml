@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPA_devitoa4_Calculator</string>
+    <string name="Course_1">Course 1</string>
+    <string name="Course_2">Course 2</string>
+    <string name="Course_3">Course 3</string>
+    <string name="Course_4">Course 4</string>
+    <string name="Course_5">Course 5</string>
+    <string name="CourseGrade">Enter your grade here</string>
+    <string name="GPALabel">Your GPA</string>
+    <string name="ComputeGPA">Compute GPA</string>
+</resources>
